@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "633182828232",
+    "project_id": "jiaro-5a15b",
+    "storage_bucket": "jiaro-5a15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633182828232:android:1c3d1377c5dc09cdf697fd",
+        "android_client_info": {
+          "package_name": "com.jiaro.jiaroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633182828232-cnph88f8k4n5gqo6tft1je3jaeg5oc55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiaro.jiaroapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "633182828232-mpga17upnfkboroj6adde2ds500toldu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtyGi-N3jLO7ymZb2DJ_H8vBeKtq__7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633182828232-mpga17upnfkboroj6adde2ds500toldu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633182828232-gnbvkkq3g6n8t45j149irblpa3laql3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.travelapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633182828232:android:b4071b5de4cdff35f697fd",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633182828232-mpga17upnfkboroj6adde2ds500toldu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtyGi-N3jLO7ymZb2DJ_H8vBeKtq__7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633182828232-mpga17upnfkboroj6adde2ds500toldu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633182828232-gnbvkkq3g6n8t45j149irblpa3laql3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.travelapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
